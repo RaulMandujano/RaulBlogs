@@ -11,7 +11,6 @@ I currently work at Avetta as a account speacilist. I am excited to gradutate an
 3. Gaming Live Stream
 4. Walk my dogs
 
-#BLOG
 
 ### JAM Stack
 
