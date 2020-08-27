@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/RaulMandujano/RaulBlogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Raul Mandujano, I born and raise in Lima Peru until the age of 17 and I moved to the United States. I always loved technology and I liked to increamy my personal knowledge, I learn Graphic Design when I was 11 in CorelDraw. I learned JAVA when I was 15, and I don't remember it very well. I haven't learn anymore until I started the web program at Utah Valley University. I am graduating the next May 2021, and I am very excited to keep learning and grow as a developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Thing I do for fun
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaulMandujano/RaulBlogs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Visit New Places (Driving, or flying)
+2. Go camping
+3. Gaming Live Stream
+4. Walk my dogs
