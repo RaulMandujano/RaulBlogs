@@ -10,3 +10,14 @@ I currently work at Avetta as a account speacilist. I am excited to gradutate an
 2. Go camping
 3. Gaming Live Stream
 4. Walk my dogs
+
+#### JAM Stack
+
+JAM stand for Javascrip, Apis, and Markup. It is a free web server, it is a new way to build websites in a faster way, with a bette interface. They connect thought internet to inretac and offer a better service and platform for users. The way Jam stack work has been getting very popular by developer since it woth with diverse website services as: 
+
+- Jekyll
+- Gatsby
+- Nuxt
+- Next
+- Hugo
+- 11ty
